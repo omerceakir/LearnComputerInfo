@@ -1,0 +1,7 @@
+C:\Users\cakir\source\repos\LearnComputerInfo\LearnComputerInfo\bin\Release\LearnComputerInfo.exe.config
+C:\Users\cakir\source\repos\LearnComputerInfo\LearnComputerInfo\bin\Release\LearnComputerInfo.exe
+C:\Users\cakir\source\repos\LearnComputerInfo\LearnComputerInfo\bin\Release\LearnComputerInfo.pdb
+C:\Users\cakir\source\repos\LearnComputerInfo\LearnComputerInfo\obj\Release\LearnComputerInfo.csproj.AssemblyReference.cache
+C:\Users\cakir\source\repos\LearnComputerInfo\LearnComputerInfo\obj\Release\LearnComputerInfo.csproj.CoreCompileInputs.cache
+C:\Users\cakir\source\repos\LearnComputerInfo\LearnComputerInfo\obj\Release\LearnComputerInfo.exe
+C:\Users\cakir\source\repos\LearnComputerInfo\LearnComputerInfo\obj\Release\LearnComputerInfo.pdb
